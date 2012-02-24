@@ -1,0 +1,3 @@
+@interface DomainModelSync : ISBasicSync
+
+@end

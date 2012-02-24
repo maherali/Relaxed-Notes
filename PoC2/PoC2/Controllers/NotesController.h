@@ -1,0 +1,2 @@
+@interface NotesController : ISTableViewController
+@end
